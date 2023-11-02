@@ -1,7 +1,4 @@
-# NAME: Proxy
-# AUTHOR: Misha Tugushev
-# REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
-# UPDATED: 2023-06-17 16:06:14
+# NAME: ProxyRu
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
@@ -51,4 +48,7 @@ DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,grafana.com
 DOMAIN-KEYWORD,instagram

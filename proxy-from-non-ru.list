@@ -1,8 +1,5 @@
-# NAME: Proxy Finance Russia
-# AUTHOR: Misha Tugushev
-# REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
+# NAME: ProxyNonRu 
 # BASE ON: https://www.cbr.ru/banking_sector/credit/cowebsites/ 
-# UPDATED: 2023-06-18 11:27:30
 DOMAIN-SUFFIX,go.unicredit.ru
 DOMAIN-SUFFIX,imb.ru
 DOMAIN-SUFFIX,imbank.ru
@@ -1100,3 +1097,4 @@ DOMAIN-SUFFIX,ucsnbco.ru
 DOMAIN-SUFFIX,finance.ozon.ru
 DOMAIN-SUFFIX,paymentkit.ru
 DOMAIN-SUFFIX,asia-pay.ru
+DOMAIN-SUFFIX,kinopoisk.ru
