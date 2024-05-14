@@ -1,4 +1,9 @@
 # NAME: ProxyRu
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
@@ -30,8 +35,6 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,netpeaksoftware.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,quora.com
@@ -50,7 +53,6 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,supercell.com
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,grafana.com
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutracker.net
@@ -59,6 +61,5 @@ DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,tidal.com
-DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,bing.com
