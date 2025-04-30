@@ -1102,4 +1102,11 @@ DOMAIN-SUFFIX,gosuslugi.ru
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,nalog.gov.ru
 DOMAIN-SUFFIX,lkfl2.nalog.ru
-DOMAIN-SUFFIX, youtube.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ytimg.l.google.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,googlevideo
+DOMAIN-KEYWORD,youtu
