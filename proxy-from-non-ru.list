@@ -1,5 +1,18 @@
 # NAME: ProxyNonRu 
-# BASE ON: https://www.cbr.ru/banking_sector/credit/cowebsites/ 
+# BASE ON: https://www.cbr.ru/banking_sector/credit/cowebsites/
+# youtube ads
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ytimg.l.google.com
+DOMAIN-KEYWORD,googlevideo
+# google ads
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,ad.doubleclick.net
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,ads.youtube.com
+DOMAIN-SUFFIX,ads.google.com
 DOMAIN-SUFFIX,go.unicredit.ru
 DOMAIN-SUFFIX,imb.ru
 DOMAIN-SUFFIX,imbank.ru
