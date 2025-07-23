@@ -1,5 +1,6 @@
 # NAME: ProxyNonRu 
 # BASE ON: https://www.cbr.ru/banking_sector/credit/cowebsites/
+GEOIP,ru,PROXY
 # youtube ads
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
@@ -1115,3 +1116,4 @@ DOMAIN-SUFFIX,gosuslugi.ru
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,nalog.gov.ru
 DOMAIN-SUFFIX,lkfl2.nalog.ru
+FINAL,DIRECT
